@@ -10,3 +10,6 @@
 8. Execute all queries in **"Data Analyst Test.sql"** sequentially.
 9. These queries will combine multiple tables into a single dataset prepared for analysis in Looker Studio.
 10. Finally, export the new dataset as a **CSV file**, which can then be used to build dashboards in Looker Studio.
+
+
+Link Dashboard: https://lookerstudio.google.com/reporting/696860d4-6fb1-42e6-9c04-13c9c9977d41
